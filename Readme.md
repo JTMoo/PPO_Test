@@ -1,8 +1,11 @@
 # This is a repository for testing purposes only
 # Table of Contents
-1. [Deep reinforcement learning](#deepreinforcementlearning)
+1. [Deep reinforcement learning](#deep-reinforcement-learning)
+2. [Policies](#policies)
+3. [Agent](#agent)
+4. [Algorithms](#algorithms)
 
-## [Deep reinforcement learning](#deepreinforcementlearning)
+## Deep reinforcement learning
 Reinforcement learning is a type of machine learning that is used to train an artificial intelligence (AI) agent to make decisions based on trial and error.
 In reinforcement learning, the AI agent interacts with an environment and learns from the feedback it receives in the form of rewards or punishments.
 
