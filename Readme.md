@@ -21,8 +21,14 @@ Model-free learning means that the algorithm does not rely on a model of the env
 
 On the other hand, model-based learning algorithms explicitly learn a model of the environment's dynamics, including the transition probabilities and the rewards. This model can then be used to simulate different trajectories and estimate the expected cumulative reward under different policies.
 
+## Algorithms
 ### Q-Learning
 Q-Learning is a model-free, off-policy algorithm that learns the optimal Q-value function by iteratively updating the Q-values based on the observed rewards and transitions.
+### SARSA
+### Deep Q-Networks (DQN)
+### Policy Gradient Methods
+### Actor-Critic Methods
+### Monte Carlo Methods
 
 ## PPO
 PPO stands for Proximal Policy Optimization, which is a deep reinforcement learning algorithm used for training artificial intelligence (AI) agents. 
