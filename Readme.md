@@ -25,10 +25,15 @@ On the other hand, model-based learning algorithms explicitly learn a model of t
 ### Q-Learning
 Q-Learning is a model-free, off-policy algorithm that learns the optimal Q-value function by iteratively updating the Q-values based on the observed rewards and transitions.
 ### SARSA
+SARSA is another model-free, on-policy algorithm that learns the Q-value function by iteratively updating the Q-values based on the observed rewards and transitions.
 ### Deep Q-Networks (DQN)
+DQN is a deep reinforcement learning algorithm that uses a neural network to represent the Q-value function. The neural network is trained using a variant of Q-Learning that uses experience replay and a target network to improve stability during training.
 ### Policy Gradient Methods
+Policy gradient methods learn a policy directly by optimizing a surrogate objective function that maximizes the expected cumulative reward. Examples of policy gradient methods include REINFORCE and Proximal Policy Optimization (PPO).
 ### Actor-Critic Methods
+Actor-Critic methods combine the benefits of both policy gradient methods and value-based methods by using two networks - an actor network that learns the policy and a critic network that learns the value function. Examples of actor-critic methods include Advantage Actor-Critic (A2C) and Deep Deterministic Policy Gradient (DDPG).
 ### Monte Carlo Methods
+Monte Carlo methods learn the value function by sampling complete trajectories from the environment and using them to estimate the expected cumulative reward. Examples of Monte Carlo methods include Monte Carlo policy evaluation and Monte Carlo Tree Search.
 
 ## PPO
 PPO stands for Proximal Policy Optimization, which is a deep reinforcement learning algorithm used for training artificial intelligence (AI) agents. 
