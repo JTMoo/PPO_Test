@@ -2,7 +2,7 @@
 # Table of Contents
 1. [Deep reinforcement learning](#deepreinforcementlearning)
 
-## Deep reinforcement learning
+## [Deep reinforcement learning](#deepreinforcementlearning)
 Reinforcement learning is a type of machine learning that is used to train an artificial intelligence (AI) agent to make decisions based on trial and error.
 In reinforcement learning, the AI agent interacts with an environment and learns from the feedback it receives in the form of rewards or punishments.
 
