@@ -7,7 +7,7 @@ In reinforcement learning, the AI agent interacts with an environment and learns
 In the context of reinforcement learning, a policy is a function that maps states to actions. The policy specifies the behavior of an agent in an environment by telling the agent what action to take in each state.
 ### Types of Policies
 1. LuT
-2. NN
+2. NN (Deep RL)
 3. Rule-set
 
 ## Agent
